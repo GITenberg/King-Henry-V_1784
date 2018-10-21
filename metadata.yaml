@@ -1,5 +1,5 @@
 _repo: King-Henry-V_1784
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Historical drama'
 - !lcsh 'Henry V, King of England, 1387-1422 -- Drama'
+- GITenberg
 title: King Henry V
 url: http://www.gutenberg.org/ebooks/1784
